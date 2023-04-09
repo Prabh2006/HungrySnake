@@ -1,6 +1,8 @@
 # HungrySnake
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+
 The classic snake game made using pygame 
+
 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
 
 Some cheat codes to add some twists
